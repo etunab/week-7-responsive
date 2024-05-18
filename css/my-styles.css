@@ -1,0 +1,31 @@
+        * {
+        font-family: 'Times New Roman', Times, serif;
+        color: #84d7fd;
+        box-sizing: border-box;
+        }
+        
+        header h1 {
+        color: rgb(43, 95, 61); }
+
+        article h4 {
+        text-align: center;}
+
+        section h3 {
+            font-weight:bolder
+        }
+
+        article img {
+        max-width: 100%;
+        height:auto;}
+
+        nav, #feature, footer {
+        margin: 1%; }
+
+        nav li {
+        display: inline;
+		padding: 0.5em;
+        color: rgb(243, 133, 232);}
+
+        .row-color-1 {
+            background-color:rgb(254, 92, 103);
+        }
